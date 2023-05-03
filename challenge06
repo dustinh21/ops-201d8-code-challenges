@@ -11,7 +11,28 @@
 
 
 # Main
-echo "Hello World!"
+
+
+
+#!/bin/bash
+
+# Define an array of filenames to check
+files=("file1.txt" "file2.txt" "file3.txt")
+
+# Loop through each file in the array
+for file in "${files[@]}"; do
+  # Check if the file exists
+  if [ -f "$file" ]; then
+    echo "$file exists"
+  else
+    echo "$file does not exist"
+    touch "$file"
+    echo "$file created"
+  fi
+done
+
+
+
 
 
 # End
