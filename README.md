@@ -1,2 +1,9 @@
 # ops-201d8-code-challenges
-test
+
+
+#git commands to remember
+
+#git add .
+#git commit -m "daily update"
+#git push
+
