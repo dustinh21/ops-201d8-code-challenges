@@ -1,10 +1,10 @@
 
 #!/bin/bash
 
-# Script Name:                  Script Name
-# Author:                       Your Name
-# Date of latest revision:      00/00/0000
-# Purpose:                      Purpose
+# Script Name:                  Domain name search
+# Author:                       Dustin Haggett
+# Date of latest revision:      5/10/2023
+# Purpose:                      Get domain info quickly in linux terminal
 
 #
 
