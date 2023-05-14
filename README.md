@@ -11,7 +11,7 @@
 - [Class 08 OPS Challenge](autocopy.txt)
 - [Class 09 OPS Challenge](logretrieval.ps1)
 - [Class 10 OPS Challenge](sysproccmd.ps1)
-- [Class 11 OPS Challenge](win10autoconfig.ps1)
+- [Class 11 OPS Challenge](winautoconfig.ps1)
 - [Class 12 OPS Challenge](ipconfigipv4.ps1)
 - [Class 13 OPS Challenge](domains.sh)
 
